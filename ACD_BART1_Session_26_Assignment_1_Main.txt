@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION 10: RDBMS (CONTD.)
+
+
+
+Assignment 1
+
+
+Table of Contents
+1. Introduction	3
+2. Objective	3
+3. Prerequisites	3
+4. Associated Data Files	3
+5. Problem Statement	3
+6. Expected Output	3
+7. Approximate Time to Complete Task	3
+
+
+
+
+1. Introduction
+This assignment will help you understand the concepts learnt in the session.
+
+2. Objective
+To understand and be able to manipulate SQL queries.
+
+3. Prerequisites
+Not applicable.
+
+4. Associated Data Files
+Use the Sakila schema, which can be found in following link (to be installed in your local system) http://dev.mysql.com/doc/index-other.html("sakila database") http://dev.mysql.com/doc/sakila/en/sakila.html(for full documentation)
+Requirements
+For each question, you are required to provide the following:
+- The SQL query you used
+- The answers
+- Any assumptions you made
+
+5. Problem Statement
+1. What are the names of all the countries in the databases which start with the letter "B" (sorted by their names)?
+2. Return the first names (sorted) of all the actors with the last name "berry".
+3. Find all the films whose length is more than 184 (inclusive). Order the results by the length (and for films with the same length order them by their name). Return their title and the length.
+
+6. Expected Output
+N/A
+
+7. Approximate Time to Complete Task
+
+
+
+
